@@ -33,3 +33,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamuelBraz&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelBraz&theme=tokyonight" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
+</div>
