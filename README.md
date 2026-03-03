@@ -23,7 +23,7 @@
 
 ## 🧠 Tecnologias que uso:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,kotlin,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,kotlin,html,css,js,dotnet" />
 </p>
 
 ---
