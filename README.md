@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Samuel Braz!
 
 🎓 **Estudante de Sistemas de Informação** na [UNIPLAC](https://www.uniplaclages.edu.br)  
-💻 Apaixonado por tecnologia, programação e inovação.  
+💻 Desenvolvedor voltado para tecnologia e inovação.
 🚀 Sempre buscando evoluir e criar projetos criativos e bem estruturados!
 
 ---
